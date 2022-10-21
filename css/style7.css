@@ -2,7 +2,7 @@
 
 .overlay {
 	position: fixed;
-	width: 50%;
+	width: 25%;
 	height: 100%;
 	top: 0;
 	left: 0;
@@ -63,7 +63,7 @@ button#trigger-overlay {
 }
 
 .overlay ul li a {
-    font-size: 1em;
+    font-size: 1.2em;
     font-weight: 600;
     display: block;
     color: #333;
